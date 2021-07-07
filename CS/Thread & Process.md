@@ -6,7 +6,7 @@
 이 때 운영체제는 프로세스마다 각각 독립된 메모리 영역을 code / data / stack / heap 의 형식으로 할당해 준다. 
 각각 독립된 메모리 영역을 할당해 주기 때문에 프로세스는 다른 프로세스의 변수나 자료에 접근할 수 없다.
 
-![image](https://user-images.githubusercontent.com/73928346/124781134-22580800-df7e-11eb-81db-7684e94a7e70.png)
+![image](https://user-images.githubusercontent.com/73928346/124781134-22580800-df7e-11eb-81db-7684e94a7e70.png){: width="100" height="100"}
 프로세스들이 운영체제로부터 별도의 메모리 영역을 할당받은 모습
 (이미지 출처: Heee's Development Blog)
 
