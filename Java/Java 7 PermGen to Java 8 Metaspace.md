@@ -21,9 +21,9 @@ Metaspace는 native memory를 사용하기 때문에 힙 영역과는 별개의 
 
 native memory는 프로세스에 할당되는 메모리 영역으로 C 힙과 스레드 스택도 native memory를 사용한다.
 
-[##_Image|kage@qG5sZ/btq9zFNsXYV/oXo0sCJ8kOkmsw7PeMFCb1/img.png|alignCenter|srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIk4YR%2FbtqLyMh7oGX%2FkFrDnDUbeweNZThLXtKAGk%2Fimg.png" width="573" height="NaN" data-origin-width="1034" data-origin-height="606" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/73928346/125647480-737891ec-9420-4044-ab35-9c695331d70f.png)
 
-  
+
 ​  
 \[출처 : [https://www.programmersought.com/article/4905216600/\]](https://www.programmersought.com/article/4905216600/%5D)  
 ​  
@@ -31,13 +31,12 @@ native memory는 프로세스에 할당되는 메모리 영역으로 C 힙과 �
 클래스가 로딩될 때 Metaspace에 클래스 정보가 저장된다.  
 ​
 
-[##_Image|kage@wQPhv/btq9wgBaMeX/AoUuSXX9gmLuvXpC0siTRk/img.png|alignCenter|srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbWOIsu%2FbtqLwLcYnkq%2FsUj9ukp11PNn1yCQHWzkW1%2Fimg.png" width="675" height="NaN" data-origin-width="1280" data-origin-height="628" data-ke-mobilestyle="widthOrigin"|||_##]
-
+![image](https://user-images.githubusercontent.com/73928346/125647526-a0e34656-18a7-4ef2-95e8-3d373b49dab6.png)
   
 ​  
 \[출처 : [https://stuefe.de/posts/metaspace/what-is-metaspace/\]](https://stuefe.de/posts/metaspace/what-is-metaspace/%5D)
 
--  소스 코드양이 많아질수록 Metaspace도 그만큼 많이 사용
+소스 코드양이 많아질수록 Metaspace도 그만큼 많이 사용
 
 JVM 옵션으로 사용했던 PermSize 와 MaxPermSize는 더이상 사용할 필요가 없으며  
 이 대신에 MetaspaceSize 및 MaxMetaspaceSize가 새롭게 사용되게 되었다.  
