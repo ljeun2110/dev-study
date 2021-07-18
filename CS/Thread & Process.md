@@ -8,7 +8,7 @@
   >
   > 
   ><br>
-  > <img src="https://user-images.githubusercontent.com/73928346/124781134-22580800-df7e-11eb-81db-7684e94a7e70.png" width="300px">    
+  > <img src="https://user-images.githubusercontent.com/73928346/124781134-22580800-df7e-11eb-81db-7684e94a7e70.png" width="400px">    
   >
   > 프로세스들이 운영체제로부터 별도의 메모리 영역을 할당받은 모습   
   > (이미지 출처: Heee's Development Blog)
