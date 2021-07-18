@@ -36,7 +36,7 @@
   프로세스에 부하가 있을 경우 점포를 늘리면 되듯이 서버를 늘려 트래픽을 분산 시킬 수 있다.    
   -> 일종의 멀티 프로세스
 
-![image](https://user-images.githubusercontent.com/73928346/126057396-32019bbd-803b-4a97-8293-447d60ba7064.png)
+	![image](https://user-images.githubusercontent.com/73928346/126057396-32019bbd-803b-4a97-8293-447d60ba7064.png)
 
 
 <br>
